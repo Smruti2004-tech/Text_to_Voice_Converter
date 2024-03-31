@@ -1,5 +1,6 @@
 # Text to Voice Converter
-Welcome to the Text to Voice Converter! 
+Welcome to the Text to Voice Converter!  
+It is a simple website that simply helps to convert text into voice .
 
 # How to Use
 1. Input Text: Simply paste or type the text you want to convert into the designated input area.
